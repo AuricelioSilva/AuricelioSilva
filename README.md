@@ -4,9 +4,6 @@
   <a href="https://github.com/AuricelioSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AuricelioSilva&show_icons=true&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuricelioSilva&layout=compact&langs_count=7&theme=onedark"/>
-
-    
-
 </div>
 
   <div style="display: inline_block"><br>
@@ -20,7 +17,6 @@
   <img align="center" alt="Auricelio-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maiara-SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
   
-
 </div>
 
   ##
